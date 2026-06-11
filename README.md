@@ -13,7 +13,7 @@ A lightweight system monitor widget for XFCE using the Genmon Plugin.
 
 ## Screenshot
 
-![XFCE System Monitor Widget](images/system-monitor-widget.png)
+![XFCE System Monitor Widget](Sys.moi.png)
 
 Example:
 
